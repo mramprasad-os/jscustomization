@@ -1,0 +1,1 @@
+# Secure JS Patterns for Amazon Q
